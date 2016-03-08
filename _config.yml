@@ -1,0 +1,28 @@
+name: Give Me Nirvana
+favicon: null
+layout_spectrum: 0.3551145438104868
+typography_spectrum: 0.9694254859350622
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.33599894191138446
+  lightness: 0.9715368354227394
+  saturation: 0.8083793241530657
+  rhythmicContrast: 0.5221151064615697
+purpose: []
